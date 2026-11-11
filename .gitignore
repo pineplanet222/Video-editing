@@ -1,0 +1,8 @@
+node_modules/
+tools/
+out/
+renders/
+.hyperframes/
+remotion-project/out/
+*.log
+.DS_Store
